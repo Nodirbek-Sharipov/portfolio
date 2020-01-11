@@ -206,7 +206,7 @@ h4{
 }
 
 .myImage{
-    background: url(../me.JPG);
+    background: url("../me.JPG");
     background-size: contain; 
     border-radius: 5px;
     position: relative;
