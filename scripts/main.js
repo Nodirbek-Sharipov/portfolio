@@ -33,12 +33,14 @@ function showMenu() {
 }
 
 const iam = [
+	"a React Native developer",
         "a React.js developer",
 	"a geek coder",
 	"a fullstack developer",
 	"a NodeJS backend developer",
 	"a JavaScript lover",
 	"a C# developer",
+	"open to collaborations",
 ];
 
 var currentArr = iam[0].split('');
